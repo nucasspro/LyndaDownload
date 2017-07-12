@@ -1,7 +1,6 @@
 D:\C#\LyndaDownload\MainForm\MainForm\bin\Debug\MainForm.exe.config
 D:\C#\LyndaDownload\MainForm\MainForm\bin\Debug\MainForm.exe
 D:\C#\LyndaDownload\MainForm\MainForm\bin\Debug\MainForm.pdb
-D:\C#\LyndaDownload\MainForm\MainForm\obj\Debug\MainForm.csprojResolveAssemblyReference.cache
 D:\C#\LyndaDownload\MainForm\MainForm\obj\Debug\MainForm.Form1.resources
 D:\C#\LyndaDownload\MainForm\MainForm\obj\Debug\MainForm.Properties.Resources.resources
 D:\C#\LyndaDownload\MainForm\MainForm\obj\Debug\MainForm.csproj.GenerateResource.Cache
